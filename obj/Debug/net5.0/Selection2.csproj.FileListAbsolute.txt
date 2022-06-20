@@ -1,0 +1,16 @@
+C:\Users\Robz PC\source\repos\Selection2\Selection2\bin\Debug\net5.0\Selection2.exe
+C:\Users\Robz PC\source\repos\Selection2\Selection2\bin\Debug\net5.0\Selection2.deps.json
+C:\Users\Robz PC\source\repos\Selection2\Selection2\bin\Debug\net5.0\Selection2.runtimeconfig.json
+C:\Users\Robz PC\source\repos\Selection2\Selection2\bin\Debug\net5.0\Selection2.runtimeconfig.dev.json
+C:\Users\Robz PC\source\repos\Selection2\Selection2\bin\Debug\net5.0\Selection2.dll
+C:\Users\Robz PC\source\repos\Selection2\Selection2\bin\Debug\net5.0\ref\Selection2.dll
+C:\Users\Robz PC\source\repos\Selection2\Selection2\bin\Debug\net5.0\Selection2.pdb
+C:\Users\Robz PC\source\repos\Selection2\Selection2\obj\Debug\net5.0\Selection2.csproj.AssemblyReference.cache
+C:\Users\Robz PC\source\repos\Selection2\Selection2\obj\Debug\net5.0\Selection2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\source\repos\Selection2\Selection2\obj\Debug\net5.0\Selection2.AssemblyInfoInputs.cache
+C:\Users\Robz PC\source\repos\Selection2\Selection2\obj\Debug\net5.0\Selection2.AssemblyInfo.cs
+C:\Users\Robz PC\source\repos\Selection2\Selection2\obj\Debug\net5.0\Selection2.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\source\repos\Selection2\Selection2\obj\Debug\net5.0\Selection2.dll
+C:\Users\Robz PC\source\repos\Selection2\Selection2\obj\Debug\net5.0\ref\Selection2.dll
+C:\Users\Robz PC\source\repos\Selection2\Selection2\obj\Debug\net5.0\Selection2.pdb
+C:\Users\Robz PC\source\repos\Selection2\Selection2\obj\Debug\net5.0\Selection2.genruntimeconfig.cache
